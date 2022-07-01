@@ -2,6 +2,7 @@
 ## Technologies
 Project is created with:
 * React Native: 0.64.3
+* Redux: 8.0.2
 
 ## Setup
 To run this project, install it locally using npm:
