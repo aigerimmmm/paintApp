@@ -2,7 +2,7 @@
 
 Main Screen                |  Paint Screen
 :-------------------------:|:-------------------------:
-<img src="https://github.com/createmash/paintApp/blob/master/screen1.JPG" width="100" height="100"> | <img src="https://github.com/createmash/paintApp/blob/master/screen2.JPG" width="100" height="100">
+<img src="https://github.com/createmash/paintApp/blob/master/screen1.JPG" width="300" height="300"> | <img src="https://github.com/createmash/paintApp/blob/master/screen2.JPG" width="300" height="300">
 
 
 
